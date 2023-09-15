@@ -194,7 +194,7 @@ docker run -p 3838:3838 --rm schiggy89/llm-playground:latest
 This step might take a while until it startet.
 
 
-**Step 3: Start a browser and enter "localhost:3838" to open the application** 
+**Step 3: Start a browser and enter [localhost:3838](localhost:3838) to open the application** 
 ```
 docker run -p 3838:3838 --rm schiggy89/llm-playground:latest
 ```
